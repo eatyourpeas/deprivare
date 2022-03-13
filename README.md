@@ -72,7 +72,7 @@ If there is interest, I can provide pre-built executable files as an alternative
 e.g. on mac os x with homebrew:
 
 ```shell
-brew install clojure/tools/clojure
+brew install clojure
 ```
 
 2. Clone this repository
